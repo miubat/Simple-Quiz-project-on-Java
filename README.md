@@ -22,4 +22,4 @@ This project is a simple Java console application that simulates a Software Qual
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/miubat/Simple-Quiz-project-on-Java.git
+   git clone https://github.com/miubat/Simple-project-on-Java/edit/main/
